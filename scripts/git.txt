@@ -1,0 +1,6 @@
+# Subir ficheros a git
+
+Acceder a ruta a subir c:/Cursopython y con cmd .. 
+
+git add .
+git commit -m "Mesage de commit"
