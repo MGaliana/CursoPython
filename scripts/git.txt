@@ -4,3 +4,5 @@ Acceder a ruta a subir c:/Cursopython y con cmd ..
 
 git add .
 git commit -m "Mesage de commit"
+
+git push ("Para subir el repositorio")
