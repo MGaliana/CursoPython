@@ -1,0 +1,4 @@
+Cambiosea con texto
+otra linea con texto
+Esta linea la he modificado en memoria
+Cuarta linea del fichero
